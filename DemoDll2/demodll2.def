@@ -1,0 +1,3 @@
+LIBRARY	"DemoDll2"
+EXPORTS
+	mul @1
